@@ -19,7 +19,7 @@ public class RegistrationService {
     @Transactional
     public void saving(User user) {
 
-        if (user.getRole() == null){
+        if (user.getRole() == null || user.getRole().equalsIgnoreCase("user")){
             user.setRole("ROLE_USER");
         } else if (user.getRole().equalsIgnoreCase("admin")) {
             user.setRole("ROLE_ADMIN");
