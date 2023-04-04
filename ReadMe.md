@@ -15,8 +15,8 @@
 - Json:
 
     ![](Screenshots/img6.png)
- 
-БД:
+
+- БД:
 
     ![](Screenshots/img7.png)
 
