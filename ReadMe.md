@@ -10,15 +10,15 @@
 
 - Json:
 
-![](Screenshots/img1.png)
+    ![](Screenshots/img1.png)
 
 - Json:
 
-![](Screenshots/img6.png)
+    ![](Screenshots/img6.png)
  
 БД:
 
-![](Screenshots/img7.png)
+    ![](Screenshots/img7.png)
 
 2) POST /sensors/registration
 
@@ -26,7 +26,7 @@
 
 - Json:
 
-![](Screenshots/img2.png)
+    ![](Screenshots/img2.png)
 
 3) POST /measurements/add
 
@@ -35,7 +35,7 @@
 
 - Json:
 
-![](Screenshots/img3.png)
+    ![](Screenshots/img3.png)
 
 
 4) GET /measurements
@@ -44,7 +44,7 @@
 
 - Json:
 
-![](Screenshots/img4.png)
+    ![](Screenshots/img4.png)
 
 
 5) GET /measurements/rainyDaysCount
@@ -53,7 +53,7 @@
 
 - Json:
 
-![](Screenshots/img5.png)
+    ![](Screenshots/img5.png)
 
 
 ### Реализовано с использованием Spring Framework:
