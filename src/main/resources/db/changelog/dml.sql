@@ -1,0 +1,1 @@
+insert into user_list ("name","password","role") values ('Admin','$2a$10$9Q2QRHnXVRtcz7UYUTpTW.Y.5NmRVer2jyIQ2m1JZNVVS9I52VvNq','ROLE_ADMIN');

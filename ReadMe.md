@@ -66,3 +66,5 @@
 - Spring REST
 
 База данных: PostreSQL
+
+Liquibase
